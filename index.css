@@ -1,0 +1,123 @@
+
+#logo{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 117px;
+    top: 40px;
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 50px;
+    color: #000000;
+}
+.menu{
+    /* display: flex;*/
+    position: absolute; 
+    top:52px;
+    height:25px;
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+ #home{
+width: 58px;
+left: 555px;
+}
+
+#skills{
+width: 50px;
+left: 735px;
+}
+
+#project{
+width: 68px;
+left: 907px;
+}
+
+    
+
+#twitter{
+left: 1050px;
+}
+#skype{
+    left:1100px;
+}
+#insta{
+    left:1150px;
+}
+#linkedin{
+    left:1200px;
+}
+.menu button{
+    position: absolute;
+width: 130px;
+height: 50px;
+left: 1250px;
+top:-25px;
+
+
+background: #D9D9D9;
+border-radius: 11px;
+}
+#portfolio{
+    position: absolute;
+width: 283px;
+height: 46px;
+left: 123px;
+top: 400px;
+
+font-family: 'Hannari';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+
+color: #000000;
+}
+#hi{
+    position: absolute;
+width: 584px;
+height: 152px;
+left: 120px;
+top: 410px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 60px;
+
+color: #000000;
+}
+#btn{
+    position: absolute;
+width: 278px;
+height: 76px;
+left: 218px;
+top: 625px;
+
+background: #D9D9D9;
+border-radius: 19px;
+}
+#hero{
+    position: absolute;
+width: 700px;
+height: 737px;
+left: 750px;
+top: 80px;
+
+}
+
+
+
+
